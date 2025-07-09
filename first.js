@@ -11,8 +11,8 @@
 
 var name="Sai";
     name="harsha"
-    a=1
-    b=6
+    var a=1
+   var b=6
 console.log(b+5)
 
 let name1="Sai";
