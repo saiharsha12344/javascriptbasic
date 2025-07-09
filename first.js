@@ -15,16 +15,16 @@ var name="Sai";
     b=6
 console.log(b+5)
 
-//let name="Sai";
-//console.log(name)
+let name1="Sai";
+console.log(name1)
 
-const name="Sai";
-console.log(name)
+const name2="Sai";
+console.log(name2)
 
 
 //Hoisting:we can access variables in before initializing using var key word for example
- console.log(name)
- var name="sai"
+ console.log(name4)
+ var name4="sai"
 
  //and we accessing before intializing a using let and const variable for example
 
