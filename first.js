@@ -55,9 +55,9 @@ const num=10;
 console.log(num)
 console.log(typeof num)
 
-const b=10.00;
-console.log(b)
-console.log(typeof b)
+const g=10.00;
+console.log(g)
+console.log(typeof g)
 
 const c=10.123;
 console.log(c)
