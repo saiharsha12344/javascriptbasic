@@ -13,7 +13,7 @@ var name="Sai";
     name="harsha"
     var a=1
    var b=6
-console.log(b+5)
+console.log(a+5)
 
 let name1="Sai";
 console.log(name1)
