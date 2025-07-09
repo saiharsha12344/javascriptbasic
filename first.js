@@ -110,7 +110,7 @@ let obj = {
 };
 
 console.log(obj.publicProperty);
-console.log(obj[sym]);*/
+console.log(obj[sym]);
 
 // 7.BigInt
 
